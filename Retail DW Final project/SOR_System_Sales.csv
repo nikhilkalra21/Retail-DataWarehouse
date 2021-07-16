@@ -1,0 +1,7 @@
+SOR_System_ID,SOR_Name,SOR_Description,SOR_Type,SOR_DBMS,SOR_DBName,SOR_DBSchema,SOR_FileType,SOR_Filename ,SOR_AppName,SOR_AppModule,DI_Job_ID,DI_Create_Date,DI_Modified_Date
+1,Oracle,SQL Developer,Database,Oracle,Retail_SOR_NA,Retail_SOR_NA,sql,retail_sor_na_orcl_20191129.sql,Oracle,Oracle,no_job_id,,
+2,SQL Server,SQL Server,Database,SQL Server,Retail_SOR_EU,dbo,sql,retail_sor_eu_sqlserver.sql,SQL Server,SQL Server,no_job_id,,
+3,MySQL,Workbench,Database,MySQL,Retail_SOR_AS,dbo,sql,retail_sor_as_mysql.sql,MySQL,MySQL,no_job_id,,
+4,PostgreSQL,pgAdmin,Database,PostgreSQL,Retail_SOR_CAT,public,bak,retail_sor_cat_post.backup,PostgreSQL,PostgreSQL,no_job_id,,
+5,PostgreSQL,pgAdmin,Database,PostgreSQL,Retail_SOR_PLAN,public,bak,retail_sor_plan_post.backup,PostgreSQL,PostgreSQL,no_job_id,,
+6,SOR_Files,File,File,csv,Flat Files,NULL,csv,SOR_Files,csv,csv,no_job_id,,

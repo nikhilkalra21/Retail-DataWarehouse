@@ -1,0 +1,27 @@
+DI_Reject_ID ,DI_Reject_Code,DI_Reject_Reason ,DI_Reject_Description
+1,1,StoreSK Is NULL,Invalid StoreSK In FactInventory Integration
+2,2,ProductSK Is NULL,Invalid ProductSK In FactInventory Integration
+3,3,GeographySK Is NULL,Invalid GeographySK In FactInventory Integration
+4,11,CustomerSK Is NULL,Invalid CustomerSK In FactOnlineSales Integration
+5,12,ChannelSK Is NULL,Invalid ChannelSK In FactOnlineSales Integration
+6,13,StoreSK Is NULL,Invalid StorelSK In FactOnlineSales Integration
+7,14,ProductSK Is NULL,Invalid ProductSK In FactOnlineSales Integration
+8,15,PromotionSK Is NULL,Invalid PromotionSK In FactOnlineSales Integration
+9,16,GeographySK Is NULL,Invalid GeographySK In FactOnlineSales Integration
+10,17,Local_CurrencySK Is NULL,Invalid Local_CurrencySK In FactOnlineSales Integration
+11,21,ChannelSK Is NULL,Invalid ChannelSK In FactSales Integration
+12,22,StoreSK Is NULL,Invalid StorelSK In FacSales Integration
+13,23,ProductSK Is NULL,Invalid ProductSK In FactSales Integration
+14,24,PromotionSK Is NULL,Invalid PromotionSK In FactSales Integration
+15,25,GeographySK Is NULL,Invalid GeographySK In FactSales Integration
+16,26,Local_CurrencySK Is NULL,Invalid Local_CurrencySK In FactSales Integration
+17,31,ChannelSK Is NULL,Invalid ChannelSK In FactSalesQuota Integration
+18,32,StoreSK Is NULL,Invalid StorelSK In FactSalesQuota Integration
+19,33,ProductSK Is NULL,Invalid ProductSK In FactSalesQuota Integration
+20,34,CurrencySK Is NULL,Invalid CurrencySK In FactSalesQuota Integration
+21,35,ScenarioSK Is NULL,Invalid ScenarioSK In FactSalesQuota Integration
+22,36,Local_CurrencySK Is NULL,Invalid Local_CurrencySK In FactSalesQuota Integration
+23,41,EntitySK Is NULL,Invalid EntitySK In FactStrategyPlan Integration
+24,42,ScenarioSK Is NULL,Invalid ScenarioSK In FactStrategyPlan Integration
+25,43,AccountSK Is NULL,Invalid AccountSK In FactStrategyPlan Integration
+26,44,Local_CurrencySK Is NULL,Invalid Local_CurrencySK In FactStrategyPlan Integration
